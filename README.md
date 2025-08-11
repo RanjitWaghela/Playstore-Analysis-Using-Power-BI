@@ -52,14 +52,22 @@ Edit
 4. Refresh the dashboard to see updated insights.
 
 ## 📊 Preview
-![Dashboard Preview](images/dashboard_preview.png)
+- Customer_Icon_Blue.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/Customer_Icon_Blue.png]
+- Dashboard_Icon_Blue.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/Dashboard_Icon_Blue.png]
+- Filter_Icon_Blue.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/Filter_Icon_Blue.png]
+- Map_Icon_Blue.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/Map_Icon_Blue.png]
+- Product_Icon_Blue.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/Product_Icon_Blue.png]
+- google-play.png[https://github.com/RanjitWaghela/Playstore-Analysis-Using-Power-BI/blob/main/google-play.png]
 
+  
 ## 📌 Dataset Source
 - cleaned_ps_data [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRanjitWaghela%2FPlaystore-Analysis-Using-Power-BI%2Frefs%2Fheads%2Fmain%2Fcleaned_ps_data.xlsx&wdOrigin=BROWSELINK]
+
+- cleaned-ur_data [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRanjitWaghela%2FPlaystore-Analysis-Using-Power-BI%2Frefs%2Fheads%2Fmain%2Fcleaned_ur_data.xlsx&wdOrigin=BROWSELINK]
 
 - 
 
 ## 🧑‍💻 Author
 - **Ranjit Dharmesh Waghela**  
 - Data Scientist | Full Stack Data Science & AI Diploma  
-- [LinkedIn Profile](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername
+- [LinkedIn Profile](www.linkedin.com/in/ranjit-waghela) | [GitHub](https://github.com/RanjitWaghela)
